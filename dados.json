@@ -23,13 +23,6 @@
         { "jogadorId": 2, "pontos": 18 },
         { "jogadorId": 3, "pontos": 20 }
       ]
-    },
-    {
-      "numero": 3,
-      "data": "2024-12-09",
-      "resultados": [
-        { "jogadorId": 1, "pontos": 15 },
-        { "jogadorId": 2, "pontos": 18 },
-        { "jogadorId": 3, "pontos": 20 }
-      ]
+    }
+  ]
 }
