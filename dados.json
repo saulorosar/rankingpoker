@@ -90,9 +90,27 @@
       "numero": 10,
       "data": "2024-12-16",
       "resultados": [
-        { "jogadorId": 8, "pontos": 2 },
+        { "jogadorId": 3, "pontos": 2 },
+        { "jogadorId": 4, "pontos": 1 },
+        { "jogadorId": 2, "pontos": 2 },
+        { "jogadorId": 1, "pontos": 1 }
+      ]
+    },
+    {
+      "numero": 11,
+      "data": "2024-12-17",
+      "resultados": [
+        { "jogadorId": 3, "pontos": 6 },
+        { "jogadorId": 4, "pontos": 3 }
+      ]
+    },
+    {
+      "numero": 12,
+      "data": "2024-12-18",
+      "resultados": [
+        { "jogadorId": 9, "pontos": 9 },
         { "jogadorId": 7, "pontos": 1 }
       ]
-    }
+    }    
   ]
 }
