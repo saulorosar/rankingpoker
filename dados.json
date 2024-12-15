@@ -41,11 +41,11 @@
       ]
     },
     {
-      "numero": 3,
-      "data": "2024-12-09",
+      "numero": 5,
+      "data": "2024-12-11",
       "resultados": [
-        { "jogadorId": 1, "pontos": 6 },
-        { "jogadorId": 2, "pontos": 3 }
+        { "jogadorId": 1, "pontos": 2 },
+        { "jogadorId": 2, "pontos": 1 }
       ]
     }
   ]
