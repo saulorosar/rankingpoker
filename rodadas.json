@@ -1,0 +1,12 @@
+{
+  "rodadas": [
+    {
+      "numero": 1,
+      "data": "2024-12-01",
+      "resultados": [
+        { "jogadorId": 1, "pontos": 10 },
+        { "jogadorId": 2, "pontos": 12 }
+      ]
+    }
+  ]
+}
