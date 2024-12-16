@@ -162,6 +162,16 @@
         { "jogadorId": 9, "pontos": 9 },
         { "jogadorId": 7, "pontos": 1 }
       ]
-    }    
+    },
+     {
+     "numero": 13,
+     "data": "2024-12-19",
+     "resultados": [
+       { "jogadorId": 30, "pontos": 8 },
+       { "jogadorId": 42, "pontos": 18 },
+       { "jogadorId": 35, "pontos": 13 },
+       { "jogadorId": 50, "pontos": 5 }
+     ]
+    }
   ]
 }
