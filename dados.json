@@ -68,7 +68,7 @@
             "nomeTorneio": "Torneio de Abertura",
             "diaSemana": "Sexta-feira",
             "valorGarantido": 10000,
-            "data": "2024-12-12"
+            "data": "2024-12-12",
             "resultados": [
                 { "jogadorId": 1, "pontos": 100 },
                 { "jogadorId": 2, "pontos": 80 }
@@ -79,7 +79,7 @@
             "nomeTorneio": "Desafio de Sábado",
             "diaSemana": "Sábado",
             "valorGarantido": 15000,
-           "data": "20204-12-13"
+           "data": "20204-12-13",
             "resultados": [
                 { "jogadorId": 1, "pontos": 120 },
                 { "jogadorId": 2, "pontos": 100 }
