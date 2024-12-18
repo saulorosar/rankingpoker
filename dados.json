@@ -65,12 +65,12 @@
    "rodadas": [
         {
             "numero": 1,
-            "nomeTorneio": "Torneio de Abertura",
+            "nomeTorneio": "super sexta",
             "diaSemana": "Sexta-feira",
             "valorGarantido": 10000,
             "data":"2024-12-12",
             "resultados": [
-                { "jogadorId": 1, "pontos": 100 },
+                { "jogadorId": 11, "pontos": 100 },
                 { "jogadorId": 2, "pontos": 80 }
             ]
         },
@@ -81,9 +81,31 @@
             "valorGarantido": 15000,
             "data":"2024-12-13",
             "resultados": [
-                { "jogadorId": 1, "pontos": 120 },
-                { "jogadorId": 2, "pontos": 100 }
+                { "jogadorId": 12, "pontos": 120 },
+                { "jogadorId": 23, "pontos": 100 }
             ]
-        }
+        },
+      {
+            "numero": 3,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "Domingo",
+            "valorGarantido": 10000,
+            "data":"2024-12-12",
+            "resultados": [
+                { "jogadorId": 15, "pontos": 100 },
+                { "jogadorId": 25, "pontos": 80 }
+            ]
+        },
+        {
+            "numero": 4,
+            "nomeTorneio": "Desafio de Sábado",
+            "diaSemana": "Sábado",
+            "valorGarantido": 15000,
+            "data":"2024-12-13",
+            "resultados": [
+                { "jogadorId": 14, "pontos": 120 },
+                { "jogadorId": 29, "pontos": 100 }
+            ]
+        },
     ]
 }
