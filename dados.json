@@ -106,6 +106,17 @@
                 { "jogadorId": 14, "pontos": 120 },
                 { "jogadorId": 29, "pontos": 100 }
             ]
+        },
+       {
+            "numero": 5,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "Domingo",
+            "valorGarantido": 10000,
+            "data":"2024-12-13",
+            "resultados": [
+                { "jogadorId": 8, "pontos": 100 },
+                { "jogadorId": 25, "pontos": 80 }
+            ]
         }
     ]
 }
