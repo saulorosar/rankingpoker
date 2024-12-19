@@ -106,6 +106,28 @@
                 { "jogadorId": 5, "pontos": 100 },
                 { "jogadorId": 6, "pontos": 80 }
             ]
+        },
+        {
+            "numero": 5,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "segunda-feira",
+            "valorGarantido": 10000,
+            "data": "2024-12-18",
+            "resultados": [
+                { "jogadorId": 40, "pontos": 100 },
+                { "jogadorId": 30, "pontos": 80 }
+            ]
+        },
+       {
+            "numero": 6,
+            "nomeTorneio": "Torneio Super",
+            "diaSemana": "segunda-feira",
+            "valorGarantido": 10000,
+            "data": "2024-12-19",
+            "resultados": [
+                { "jogadorId": 5, "pontos": 100 },
+                { "jogadorId": 6, "pontos": 80 }
+            ]
         }
     ]
 }
