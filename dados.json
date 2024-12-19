@@ -61,16 +61,16 @@
     { "id": 58, "nome": "Reiner Weihermann" },
     { "id": 59, "nome": "Mauro dos Santos" }
 ],
-   
-    "rodadas": [
+
+   "rodadas": [
         {
             "numero": 1,
-            "nomeTorneio": "Torneio de Abertura",
+            "nomeTorneio": "super sexta",
             "diaSemana": "Sexta-feira",
             "valorGarantido": 10000,
-            "data": "2024-12-12",
+            "data":"2024-12-12",
             "resultados": [
-                { "jogadorId": 1, "pontos": 100 },
+                { "jogadorId": 11, "pontos": 100 },
                 { "jogadorId": 2, "pontos": 80 }
             ]
         },
@@ -79,33 +79,33 @@
             "nomeTorneio": "Desafio de Sábado",
             "diaSemana": "Sábado",
             "valorGarantido": 15000,
-           "data": "20204-12-13",
+            "data":"2024-12-13",
             "resultados": [
-                { "jogadorId": 1, "pontos": 120 },
-                { "jogadorId": 2, "pontos": 100 }
+                { "jogadorId": 12, "pontos": 120 },
+                { "jogadorId": 23, "pontos": 100 }
             ]
         },
-       {
+      {
             "numero": 3,
             "nomeTorneio": "Torneio Freezeout",
-            "diaSemana": "segunda-feira",
+            "diaSemana": "Domingo",
             "valorGarantido": 10000,
-            "data": "2024-12-18",
+            "data":"2024-12-12",
             "resultados": [
-                { "jogadorId": 40, "pontos": 100 },
-                { "jogadorId": 30, "pontos": 80 }
+                { "jogadorId": 15, "pontos": 100 },
+                { "jogadorId": 25, "pontos": 80 }
             ]
         },
-       {
+        {
             "numero": 4,
-            "nomeTorneio": "Torneio Super",
-            "diaSemana": "segunda-feira",
-            "valorGarantido": 10000,
-            "data": "2024-12-19",
+            "nomeTorneio": "Desafio de Sábado",
+            "diaSemana": "Sábado",
+            "valorGarantido": 15000,
+            "data":"2024-12-13",
             "resultados": [
-                { "jogadorId": 5, "pontos": 100 },
-                { "jogadorId": 6, "pontos": 80 }
+                { "jogadorId": 14, "pontos": 120 },
+                { "jogadorId": 29, "pontos": 100 }
             ]
-        }
+        },
     ]
 }
