@@ -120,20 +120,20 @@
             ]
         },
       {
-            "numero": 3,
+            "numero": 6,
             "nomeTorneio": "Torneio Freezeout",
-            "diaSemana": "Domingo",
+            "diaSemana": "Segunda",
             "valorGarantido": 10000,
             "data":"2024-12-12",
             "resultados": [
-                { "jogadorId": 15, "pontos": 100 },
-                { "jogadorId": 25, "pontos": 80 }
+                { "jogadorId": 35, "pontos": 100 },
+                { "jogadorId": 36, "pontos": 80 }
             ]
         },
         {
-            "numero": 4,
+            "numero": 7,
             "nomeTorneio": "Desafio de terça",
-            "diaSemana": "Sábado",
+            "diaSemana": "Terça",
             "valorGarantido": 15000,
             "data":"2024-12-13",
             "resultados": [
