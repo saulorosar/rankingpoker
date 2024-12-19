@@ -119,17 +119,6 @@
                 { "jogadorId": 3, "pontos": 70 },
                 { "jogadorId": 44, "pontos": 90 }
             ]
-        },
-       {
-            "numero": 6,
-            "nomeTorneio": "Torneio Monster ADD",
-            "diaSemana": "quinta-feira",
-            "valorGarantido": 10000,
-            "data": "2024-12-20",
-            "resultados": [
-                { "jogadorId": 5, "pontos": 100 },
-                { "jogadorId": 6, "pontos": 80 }
-            ]
         }
     ]
 }
