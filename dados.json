@@ -104,7 +104,8 @@
             "data":"2024-12-13",
             "resultados": [
                 { "jogadorId": 14, "pontos": 120 },
-                { "jogadorId": 29, "pontos": 100 }
+                { "jogadorId": 29, "pontos": 100 },
+                { "jogadorId": 19, "pontos": 80 }
             ]
         },
        {
