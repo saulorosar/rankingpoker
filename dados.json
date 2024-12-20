@@ -200,6 +200,440 @@
                 { "jogadorId": 49, "pontos": 100 },
                 { "jogadorId": 41, "pontos": 80 }
             ]
-        }
+        },
+      {
+        "numero": 16,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "segunda",
+        "valorGarantido": 19582,
+        "data": "2024-12-20",
+        "resultados": [
+            {
+                "jogadorId": 11,
+                "pontos": 65
+            },
+            {
+                "jogadorId": 49,
+                "pontos": 31
+            },
+            {
+                "jogadorId": 47,
+                "pontos": 72
+            },
+            {
+                "jogadorId": 38,
+                "pontos": 66
+            },
+            {
+                "jogadorId": 24,
+                "pontos": 14
+            }
+        ]
+    },
+    {
+        "numero": 17,
+        "nomeTorneio": "Torneio Freezeout",
+        "diaSemana": "terça",
+        "valorGarantido": 8716,
+        "data": "2024-12-21",
+        "resultados": [
+            {
+                "jogadorId": 22,
+                "pontos": 90
+            },
+            {
+                "jogadorId": 22,
+                "pontos": 35
+            },
+            {
+                "jogadorId": 6,
+                "pontos": 44
+            },
+            {
+                "jogadorId": 22,
+                "pontos": 91
+            },
+            {
+                "jogadorId": 20,
+                "pontos": 64
+            }
+        ]
+    },
+    {
+        "numero": 18,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "quarta",
+        "valorGarantido": 10682,
+        "data": "2024-12-22",
+        "resultados": [
+            {
+                "jogadorId": 8,
+                "pontos": 50
+            },
+            {
+                "jogadorId": 16,
+                "pontos": 73
+            },
+            {
+                "jogadorId": 8,
+                "pontos": 83
+            },
+            {
+                "jogadorId": 28,
+                "pontos": 98
+            },
+            {
+                "jogadorId": 43,
+                "pontos": 62
+            }
+        ]
+    },
+    {
+        "numero": 19,
+        "nomeTorneio": "Torneio Freezeout",
+        "diaSemana": "quinta",
+        "valorGarantido": 16701,
+        "data": "2024-12-23",
+        "resultados": [
+            {
+                "jogadorId": 13,
+                "pontos": 25
+            },
+            {
+                "jogadorId": 49,
+                "pontos": 33
+            },
+            {
+                "jogadorId": 22,
+                "pontos": 66
+            },
+            {
+                "jogadorId": 46,
+                "pontos": 23
+            },
+            {
+                "jogadorId": 49,
+                "pontos": 74
+            }
+        ]
+    },
+    {
+        "numero": 20,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "sexta",
+        "valorGarantido": 8101,
+        "data": "2024-12-24",
+        "resultados": [
+            {
+                "jogadorId": 2,
+                "pontos": 36
+            },
+            {
+                "jogadorId": 46,
+                "pontos": 77
+            },
+            {
+                "jogadorId": 22,
+                "pontos": 83
+            },
+            {
+                "jogadorId": 33,
+                "pontos": 31
+            },
+            {
+                "jogadorId": 1,
+                "pontos": 65
+            }
+        ]
+    },
+    {
+        "numero": 21,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "sábado",
+        "valorGarantido": 19826,
+        "data": "2024-12-25",
+        "resultados": [
+            {
+                "jogadorId": 30,
+                "pontos": 34
+            },
+            {
+                "jogadorId": 29,
+                "pontos": 86
+            },
+            {
+                "jogadorId": 8,
+                "pontos": 79
+            },
+            {
+                "jogadorId": 43,
+                "pontos": 70
+            },
+            {
+                "jogadorId": 4,
+                "pontos": 37
+            }
+        ]
+    },
+    {
+        "numero": 22,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "domingo",
+        "valorGarantido": 9228,
+        "data": "2024-12-26",
+        "resultados": [
+            {
+                "jogadorId": 3,
+                "pontos": 48
+            },
+            {
+                "jogadorId": 40,
+                "pontos": 21
+            },
+            {
+                "jogadorId": 10,
+                "pontos": 37
+            },
+            {
+                "jogadorId": 39,
+                "pontos": 54
+            },
+            {
+                "jogadorId": 19,
+                "pontos": 86
+            }
+        ]
+    },
+    {
+        "numero": 23,
+        "nomeTorneio": "Torneio Omaha",
+        "diaSemana": "segunda",
+        "valorGarantido": 12416,
+        "data": "2024-12-27",
+        "resultados": [
+            {
+                "jogadorId": 35,
+                "pontos": 49
+            },
+            {
+                "jogadorId": 18,
+                "pontos": 44
+            },
+            {
+                "jogadorId": 25,
+                "pontos": 76
+            },
+            {
+                "jogadorId": 8,
+                "pontos": 92
+            },
+            {
+                "jogadorId": 38,
+                "pontos": 80
+            }
+        ]
+    },
+    {
+        "numero": 24,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "terça",
+        "valorGarantido": 15022,
+        "data": "2024-12-28",
+        "resultados": [
+            {
+                "jogadorId": 13,
+                "pontos": 22
+            },
+            {
+                "jogadorId": 43,
+                "pontos": 14
+            },
+            {
+                "jogadorId": 16,
+                "pontos": 96
+            },
+            {
+                "jogadorId": 44,
+                "pontos": 43
+            },
+            {
+                "jogadorId": 45,
+                "pontos": 35
+            }
+        ]
+    },
+    {
+        "numero": 25,
+        "nomeTorneio": "Torneio Deepstack",
+        "diaSemana": "quarta",
+        "valorGarantido": 8777,
+        "data": "2024-12-29",
+        "resultados": [
+            {
+                "jogadorId": 35,
+                "pontos": 97
+            },
+            {
+                "jogadorId": 17,
+                "pontos": 87
+            },
+            {
+                "jogadorId": 33,
+                "pontos": 67
+            },
+            {
+                "jogadorId": 39,
+                "pontos": 13
+            },
+            {
+                "jogadorId": 10,
+                "pontos": 88
+            }
+        ]
+    },
+    {
+        "numero": 26,
+        "nomeTorneio": "Torneio Knockout",
+        "diaSemana": "quinta",
+        "valorGarantido": 14481,
+        "data": "2024-12-30",
+        "resultados": [
+            {
+                "jogadorId": 6,
+                "pontos": 63
+            },
+            {
+                "jogadorId": 27,
+                "pontos": 53
+            },
+            {
+                "jogadorId": 34,
+                "pontos": 93
+            },
+            {
+                "jogadorId": 13,
+                "pontos": 73
+            },
+            {
+                "jogadorId": 31,
+                "pontos": 21
+            }
+        ]
+    },
+    {
+        "numero": 27,
+        "nomeTorneio": "Torneio Omaha",
+        "diaSemana": "sexta",
+        "valorGarantido": 7595,
+        "data": "2024-12-31",
+        "resultados": [
+            {
+                "jogadorId": 41,
+                "pontos": 69
+            },
+            {
+                "jogadorId": 18,
+                "pontos": 10
+            },
+            {
+                "jogadorId": 18,
+                "pontos": 26
+            },
+            {
+                "jogadorId": 12,
+                "pontos": 100
+            },
+            {
+                "jogadorId": 27,
+                "pontos": 86
+            }
+        ]
+    },
+    {
+        "numero": 28,
+        "nomeTorneio": "Torneio Turbo",
+        "diaSemana": "sábado",
+        "valorGarantido": 6155,
+        "data": "2025-01-01",
+        "resultados": [
+            {
+                "jogadorId": 25,
+                "pontos": 57
+            },
+            {
+                "jogadorId": 13,
+                "pontos": 29
+            },
+            {
+                "jogadorId": 6,
+                "pontos": 39
+            },
+            {
+                "jogadorId": 17,
+                "pontos": 75
+            },
+            {
+                "jogadorId": 2,
+                "pontos": 83
+            }
+        ]
+    },
+    {
+        "numero": 29,
+        "nomeTorneio": "Torneio Deepstack",
+        "diaSemana": "domingo",
+        "valorGarantido": 10490,
+        "data": "2025-01-02",
+        "resultados": [
+            {
+                "jogadorId": 32,
+                "pontos": 16
+            },
+            {
+                "jogadorId": 45,
+                "pontos": 95
+            },
+            {
+                "jogadorId": 44,
+                "pontos": 67
+            },
+            {
+                "jogadorId": 11,
+                "pontos": 67
+            },
+            {
+                "jogadorId": 13,
+                "pontos": 42
+            }
+        ]
+    },
+    {
+        "numero": 30,
+        "nomeTorneio": "Torneio Deepstack",
+        "diaSemana": "segunda",
+        "valorGarantido": 13413,
+        "data": "2025-01-03",
+        "resultados": [
+            {
+                "jogadorId": 15,
+                "pontos": 69
+            },
+            {
+                "jogadorId": 22,
+                "pontos": 57
+            },
+            {
+                "jogadorId": 21,
+                "pontos": 29
+            },
+            {
+                "jogadorId": 40,
+                "pontos": 39
+            },
+            {
+                "jogadorId": 42,
+                "pontos": 52
+            }
+        ]
     ]
 }
