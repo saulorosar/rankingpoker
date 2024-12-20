@@ -141,6 +141,65 @@
                 { "jogadorId": 29, "pontos": 100 },
                 { "jogadorId": 19, "pontos": 80 }
             ]
+        },
+      {
+            "numero": 8,
+            "nomeTorneio": "Desafio de domingo",
+            "diaSemana": "domingo",
+            "valorGarantido": 15000,
+            "data":"2024-12-13",
+            "resultados": [
+                { "jogadorId": 12, "pontos": 120 },
+                { "jogadorId": 23, "pontos": 100 }
+            ]
+        },
+      {
+            "numero": 9,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "segunda",
+            "valorGarantido": 10000,
+            "data":"2024-12-12",
+            "resultados": [
+                { "jogadorId": 15, "pontos": 100 },
+                { "jogadorId": 25, "pontos": 80 },
+                { "jogadorId": 14, "pontos": 120 },
+                { "jogadorId": 6, "pontos": 30 },
+                { "jogadorId": 8, "pontos": 20 }
+            ]
+        },
+        {
+            "numero": 10,
+            "nomeTorneio": "Desafio de terça",
+            "diaSemana": "terça",
+            "valorGarantido": 15000,
+            "data":"2024-12-13",
+            "resultados": [
+                { "jogadorId": 21, "pontos": 120 },
+                { "jogadorId": 40, "pontos": 100 },
+                { "jogadorId": 18, "pontos": 80 }
+            ]
+        },
+       {
+            "numero": 11,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "quarta",
+            "valorGarantido": 10000,
+            "data":"2024-12-13",
+            "resultados": [
+                { "jogadorId": 11, "pontos": 100 },
+                { "jogadorId": 32, "pontos": 80 }
+            ]
+        },
+      {
+            "numero": 12,
+            "nomeTorneio": "Torneio Freezeout",
+            "diaSemana": "quinta",
+            "valorGarantido": 10000,
+            "data":"2024-12-12",
+            "resultados": [
+                { "jogadorId": 49, "pontos": 100 },
+                { "jogadorId": 41, "pontos": 80 }
+            ]
         }
     ]
 }
