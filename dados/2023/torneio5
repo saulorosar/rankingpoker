@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "nomeTorneio": "Torneio de Maio",
+    "diaSemana": "Terça",
+    "valorGarantido": 12000,
+    "data": "2023-05-15",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 140 },
+        { "jogadorId": 2, "pontos": 100 },
+        { "jogadorId": 3, "pontos": 90 }
+    ]
+}
