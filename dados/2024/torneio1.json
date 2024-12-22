@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "nomeTorneio": "Torneio de Janeiro",
+    "diaSemana": "Sábado",
+    "valorGarantido": 11000,
+    "data": "2024-01-10",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 100 },
+        { "jogadorId": 2, "pontos": 90 },
+        { "jogadorId": 3, "pontos": 80 }
+    ]
+}
