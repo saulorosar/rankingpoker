@@ -1,0 +1,12 @@
+{
+    "id": 6,
+    "nomeTorneio": "Torneio de Junho",
+    "diaSemana": "Segunda",
+    "valorGarantido": 16000,
+    "data": "2024-06-20",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 150 },
+        { "jogadorId": 2, "pontos": 110 },
+        { "jogadorId": 3, "pontos": 100 }
+    ]
+}
