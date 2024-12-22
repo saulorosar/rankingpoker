@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "nomeTorneio": "Torneio de Fevereiro",
+    "diaSemana": "Domingo",
+    "valorGarantido": 15000,
+    "data": "2023-02-20",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 120 },
+        { "jogadorId": 2, "pontos": 90 },
+        { "jogadorId": 3, "pontos": 70 }
+    ]
+}
