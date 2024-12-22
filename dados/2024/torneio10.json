@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "nomeTorneio": "Torneio de Outubro",
+    "diaSemana": "Domingo",
+    "valorGarantido": 20000,
+    "data": "2024-10-25",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 190 },
+        { "jogadorId": 2, "pontos": 130 },
+        { "jogadorId": 3, "pontos": 120 }
+    ]
+}
