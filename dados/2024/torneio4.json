@@ -1,0 +1,12 @@
+{
+    "id": 4,
+    "nomeTorneio": "Torneio de Abril",
+    "diaSemana": "Quinta",
+    "valorGarantido": 14000,
+    "data": "2024-04-25",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 130 },
+        { "jogadorId": 2, "pontos": 95 },
+        { "jogadorId": 3, "pontos": 85 }
+    ]
+}
