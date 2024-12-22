@@ -1,1 +1,13 @@
 
+{
+    "id": 1,
+    "nomeTorneio": "Torneio de Janeiro",
+    "diaSemana": "Sábado",
+    "valorGarantido": 10000,
+    "data": "2023-01-15",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 100 },
+        { "jogadorId": 2, "pontos": 80 },
+        { "jogadorId": 3, "pontos": 60 }
+    ]
+}
