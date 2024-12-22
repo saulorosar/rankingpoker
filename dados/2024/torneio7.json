@@ -1,0 +1,12 @@
+{
+    "id": 7,
+    "nomeTorneio": "Torneio de Julho",
+    "diaSemana": "Quarta",
+    "valorGarantido": 17000,
+    "data": "2024-07-25",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 160 },
+        { "jogadorId": 2, "pontos": 115 },
+        { "jogadorId": 3, "pontos": 105 }
+    ]
+}
