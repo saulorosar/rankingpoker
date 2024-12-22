@@ -1,0 +1,12 @@
+{
+    "id": 13,
+    "nomeTorneio": "Torneio Especial de Verão",
+    "diaSemana": "Sexta",
+    "valorGarantido": 23000,
+    "data": "2024-06-10",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 220 },
+        { "jogadorId": 2, "pontos": 145 },
+        { "jogadorId": 3, "pontos": 135 }
+    ]
+}
