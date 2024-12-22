@@ -1,0 +1,12 @@
+{
+    "id": 14,
+    "nomeTorneio": "Torneio Especial de Primavera",
+    "diaSemana": "Sábado",
+    "valorGarantido": 24000,
+    "data": "2024-09-10",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 230 },
+        { "jogadorId": 2, "pontos": 150 },
+        { "jogadorId": 3, "pontos": 140 }
+    ]
+}
