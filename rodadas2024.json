@@ -1,4 +1,4 @@
-  {
+{
     "rodadas": [
         {
             "numero": 1,
@@ -22,7 +22,7 @@
                 { "jogadorId": 23, "pontos": 100 }
             ]
         },
-      {
+        {
             "numero": 3,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "Domingo",
@@ -45,7 +45,7 @@
                 { "jogadorId": 19, "pontos": 80 }
             ]
         },
-       {
+        {
             "numero": 5,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "Domingo",
@@ -56,7 +56,7 @@
                 { "jogadorId": 25, "pontos": 80 }
             ]
         },
-      {
+        {
             "numero": 6,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "Segunda",
@@ -79,7 +79,7 @@
                 { "jogadorId": 19, "pontos": 80 }
             ]
         },
-      {
+        {
             "numero": 8,
             "nomeTorneio": "Desafio de domingo",
             "diaSemana": "domingo",
@@ -90,7 +90,7 @@
                 { "jogadorId": 23, "pontos": 100 }
             ]
         },
-      {
+        {
             "numero": 9,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "segunda",
@@ -116,7 +116,7 @@
                 { "jogadorId": 18, "pontos": 80 }
             ]
         },
-       {
+        {
             "numero": 11,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "quarta",
@@ -127,7 +127,7 @@
                 { "jogadorId": 41, "pontos": 80 }
             ]
         },
-      {
+        {
             "numero": 12,
             "nomeTorneio": "Desafio de terça",
             "diaSemana": "terça",
@@ -139,7 +139,7 @@
                 { "jogadorId": 27, "pontos": 80 }
             ]
         },
-       {
+        {
             "numero": 13,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "quarta",
@@ -150,7 +150,7 @@
                 { "jogadorId": 6, "pontos": 80 }
             ]
         },
-      {
+        {
             "numero": 14,
             "nomeTorneio": "Torneio Freezeout",
             "diaSemana": "quinta",
@@ -161,3 +161,5 @@
                 { "jogadorId": 12, "pontos": 80 }
             ]
         }
+    ]
+}
