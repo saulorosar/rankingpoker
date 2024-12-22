@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "nomeTorneio": "Torneio de Fevereiro",
+    "diaSemana": "Domingo",
+    "valorGarantido": 12000,
+    "data": "2024-02-15",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 110 },
+        { "jogadorId": 2, "pontos": 85 },
+        { "jogadorId": 3, "pontos": 75 }
+    ]
+}
