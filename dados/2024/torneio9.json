@@ -1,0 +1,12 @@
+{
+    "id": 9,
+    "nomeTorneio": "Torneio de Setembro",
+    "diaSemana": "Sábado",
+    "valorGarantido": 19000,
+    "data": "2024-09-20",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 180 },
+        { "jogadorId": 2, "pontos": 125 },
+        { "jogadorId": 3, "pontos": 115 }
+    ]
+}
