@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "nomeTorneio": "Torneio de Março",
+    "diaSemana": "Sexta",
+    "valorGarantido": 13000,
+    "data": "2024-03-20",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 120 },
+        { "jogadorId": 2, "pontos": 100 },
+        { "jogadorId": 3, "pontos": 90 }
+    ]
+}
