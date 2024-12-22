@@ -6,7 +6,7 @@
             "nomeTorneio": "super sexta",
             "diaSemana": "Sexta-feira",
             "valorGarantido": 10000,
-            "data":"2024-12-12",
+            "data":"2025-12-12",
             "resultados": [
                 { "jogadorId": 11, "pontos": 100 },
                 { "jogadorId": 2, "pontos": 80 }
