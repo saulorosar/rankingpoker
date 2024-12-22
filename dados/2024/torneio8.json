@@ -1,0 +1,12 @@
+{
+    "id": 8,
+    "nomeTorneio": "Torneio de Agosto",
+    "diaSemana": "Sexta",
+    "valorGarantido": 18000,
+    "data": "2024-08-15",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 170 },
+        { "jogadorId": 2, "pontos": 120 },
+        { "jogadorId": 3, "pontos": 110 }
+    ]
+}
