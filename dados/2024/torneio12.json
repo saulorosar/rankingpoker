@@ -1,0 +1,12 @@
+{
+    "id": 12,
+    "nomeTorneio": "Torneio de Dezembro",
+    "diaSemana": "Quinta",
+    "valorGarantido": 22000,
+    "data": "2024-12-20",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 210 },
+        { "jogadorId": 2, "pontos": 140 },
+        { "jogadorId": 3, "pontos": 130 }
+    ]
+}
