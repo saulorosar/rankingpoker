@@ -1,0 +1,12 @@
+{
+    "id": 11,
+    "nomeTorneio": "Torneio de Novembro",
+    "diaSemana": "Terça",
+    "valorGarantido": 21000,
+    "data": "2024-11-15",
+    "resultados": [
+        { "jogadorId": 1, "pontos": 200 },
+        { "jogadorId": 2, "pontos": 135 },
+        { "jogadorId": 3, "pontos": 125 }
+    ]
+}
