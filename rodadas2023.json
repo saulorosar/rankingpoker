@@ -1,1 +1,65 @@
+{
+    "rodadas": [
+        {
+            "numero": 1,
+            "nomeTorneio": "Torneio de Janeiro",
+            "diaSemana": "Sábado",
+            "valorGarantido": 10000,
+            "data": "2023-01-15",
+            "resultados": [
+                { "jogadorId": 1, "pontos": 100 },
+                { "jogadorId": 2, "pontos": 80 },
+                { "jogadorId": 3, "pontos": 60 }
+            ]
+        },
+        {
+            "numero": 2,
+            "nomeTorneio": "Torneio de Fevereiro",
+            "diaSemana": "Domingo",
+            "valorGarantido": 12000,
+            "data": "2023-02-20",
+            "resultados": [
+                { "jogadorId": 4, "pontos": 90 },
+                { "jogadorId": 5, "pontos": 70 },
+                { "jogadorId": 6, "pontos": 50 }
+            ]
+        },
+        {
+            "numero": 3,
+            "nomeTorneio": "Torneio de Março",
+            "diaSemana": "Sexta-feira",
+            "valorGarantido": 15000,
+            "data": "2023-03-10",
+            "resultados": [
+                { "jogadorId": 7, "pontos": 110 },
+                { "jogadorId": 8, "pontos": 85 },
+                { "jogadorId": 9, "pontos": 65 }
+            ]
+        },
+        {
+            "numero": 4,
+            "nomeTorneio": "Torneio de Abril",
+            "diaSemana": "Sábado",
+            "valorGarantido": 9000,
+            "data": "2023-04-25",
+            "resultados": [
+                { "jogadorId": 10, "pontos": 95 },
+                { "jogadorId": 11, "pontos": 75 },
+                { "jogadorId": 12, "pontos": 55 }
+            ]
+        },
+        {
+            "numero": 5,
+            "nomeTorneio": "Torneio de Maio",
+            "diaSemana": "Domingo",
+            "valorGarantido": 13000,
+            "data": "2023-05-30",
+            "resultados": [
+                { "jogadorId": 1, "pontos": 105 },
+                { "jogadorId": 2, "pontos": 95 },
+                { "jogadorId": 3, "pontos": 75 }
+            ]
+        }
+    ]
+}
 
