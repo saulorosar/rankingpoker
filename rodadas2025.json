@@ -134,6 +134,92 @@
                     "pontos": 1
                 }
             ]
+        },
+        {
+            "numero": 4,
+            "nomeTorneio": "super segunda",
+            "diaSemana": "",
+            "valorGarantido": 10000,
+            "data": "2025-01-06",
+            "resultados": [
+                {
+                    "jogadorId": 1,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 42,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 25,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 40,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 1
+                }
+            ]
+        },
+        {
+            "numero": 5,
+            "nomeTorneio": "super",
+            "diaSemana": "Quinta-feira",
+            "valorGarantido": 20000,
+            "data": "2025-01-09",
+            "resultados": [
+                {
+                    "jogadorId": 5,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 3,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 4,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 2
+                }
+            ]
         }
     ]
 }
