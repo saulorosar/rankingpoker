@@ -1,0 +1,94 @@
+{
+    "rodadas": [
+        {
+            "numero": 1,
+            "nomeTorneio": "super quarta",
+            "diaSemana": "quarta",
+            "valorGarantido": 15000,
+            "data": "2025-01-01",
+            "resultados": [
+                {
+                    "jogadorId": 44,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 1
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "nomeTorneio": "super quinta",
+            "diaSemana": "quinta",
+            "valorGarantido": 20000,
+            "data": "2025-01-02",
+            "resultados": [
+                {
+                    "jogadorId": 1,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 9,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 14,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 13,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 22,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 1
+                }
+            ]
+        }
+    ]
+}
