@@ -1,0 +1,1129 @@
+{
+    "rodadas": [
+        {
+            "numero": 1,
+            "nomeTorneio": "Super Quarta-feira",
+            "diaSemana": "Quarta-feira",
+            "valorGarantido": 5244,
+            "data": "2025-06-26",
+            "resultados": [
+                {
+                    "jogadorId": 46,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 38,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 41,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 3,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 1,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 13,
+                    "pontos": 7
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 5799,
+            "data": "2025-05-13",
+            "resultados": [
+                {
+                    "jogadorId": 38,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 28,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 5,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 34,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 3,
+            "nomeTorneio": "Super Ter\u00e7a-feira",
+            "diaSemana": "Ter\u00e7a-feira",
+            "valorGarantido": 20056,
+            "data": "2025-10-29",
+            "resultados": [
+                {
+                    "jogadorId": 23,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 38,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 13,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 35,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 22,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 4,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 49,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 28,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 4,
+            "nomeTorneio": "Super S\u00e1bado",
+            "diaSemana": "S\u00e1bado",
+            "valorGarantido": 5609,
+            "data": "2025-05-04",
+            "resultados": [
+                {
+                    "jogadorId": 17,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 27,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 19,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 10,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 29,
+                    "pontos": 1
+                }
+            ]
+        },
+        {
+            "numero": 5,
+            "nomeTorneio": "Super S\u00e1bado",
+            "diaSemana": "S\u00e1bado",
+            "valorGarantido": 24993,
+            "data": "2025-08-17",
+            "resultados": [
+                {
+                    "jogadorId": 13,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 27,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 28,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 42,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 31,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 30,
+                    "pontos": 4
+                }
+            ]
+        },
+        {
+            "numero": 6,
+            "nomeTorneio": "Super Sexta-feira",
+            "diaSemana": "Sexta-feira",
+            "valorGarantido": 18355,
+            "data": "2025-10-11",
+            "resultados": [
+                {
+                    "jogadorId": 45,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 31,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 29,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 47,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 39,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 7,
+            "nomeTorneio": "Super Sexta-feira",
+            "diaSemana": "Sexta-feira",
+            "valorGarantido": 13903,
+            "data": "2025-03-22",
+            "resultados": [
+                {
+                    "jogadorId": 4,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 16,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 34,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 13,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 38,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 8,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 13911,
+            "data": "2025-08-12",
+            "resultados": [
+                {
+                    "jogadorId": 31,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 37,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 25,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 18,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 8
+                }
+            ]
+        },
+        {
+            "numero": 9,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 10406,
+            "data": "2025-08-19",
+            "resultados": [
+                {
+                    "jogadorId": 4,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 42,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 27,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 10,
+            "nomeTorneio": "Super Sexta-feira",
+            "diaSemana": "Sexta-feira",
+            "valorGarantido": 8644,
+            "data": "2025-12-06",
+            "resultados": [
+                {
+                    "jogadorId": 17,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 36,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 23,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 40,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 31,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 2
+                }
+            ]
+        },
+        {
+            "numero": 11,
+            "nomeTorneio": "Super Quinta-feira",
+            "diaSemana": "Quinta-feira",
+            "valorGarantido": 23415,
+            "data": "2025-06-27",
+            "resultados": [
+                {
+                    "jogadorId": 37,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 18,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 4,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 25,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 10,
+                    "pontos": 1
+                }
+            ]
+        },
+        {
+            "numero": 12,
+            "nomeTorneio": "Super Domingo",
+            "diaSemana": "Domingo",
+            "valorGarantido": 9166,
+            "data": "2025-05-19",
+            "resultados": [
+                {
+                    "jogadorId": 7,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 36,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 49,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 41,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 1,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 7
+                }
+            ]
+        },
+        {
+            "numero": 13,
+            "nomeTorneio": "Super Sexta-feira",
+            "diaSemana": "Sexta-feira",
+            "valorGarantido": 15692,
+            "data": "2025-09-20",
+            "resultados": [
+                {
+                    "jogadorId": 50,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 45,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 31,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 1,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 42,
+                    "pontos": 8
+                }
+            ]
+        },
+        {
+            "numero": 14,
+            "nomeTorneio": "Super Quinta-feira",
+            "diaSemana": "Quinta-feira",
+            "valorGarantido": 15192,
+            "data": "2025-08-29",
+            "resultados": [
+                {
+                    "jogadorId": 28,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 47,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 35,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 1,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 9
+                }
+            ]
+        },
+        {
+            "numero": 15,
+            "nomeTorneio": "Super Quarta-feira",
+            "diaSemana": "Quarta-feira",
+            "valorGarantido": 12903,
+            "data": "2025-04-24",
+            "resultados": [
+                {
+                    "jogadorId": 42,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 50,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 39,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 23,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 40,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 9
+                }
+            ]
+        },
+        {
+            "numero": 16,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 5298,
+            "data": "2025-09-16",
+            "resultados": [
+                {
+                    "jogadorId": 15,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 30,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 3,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 33,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 36,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 6
+                }
+            ]
+        },
+        {
+            "numero": 17,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 18304,
+            "data": "2025-02-25",
+            "resultados": [
+                {
+                    "jogadorId": 37,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 39,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 19,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 41,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 35,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 3,
+                    "pontos": 5
+                }
+            ]
+        },
+        {
+            "numero": 18,
+            "nomeTorneio": "Super S\u00e1bado",
+            "diaSemana": "S\u00e1bado",
+            "valorGarantido": 9280,
+            "data": "2025-04-27",
+            "resultados": [
+                {
+                    "jogadorId": 36,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 50,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 10,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 13,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 35,
+                    "pontos": 3
+                }
+            ]
+        },
+        {
+            "numero": 19,
+            "nomeTorneio": "Super Domingo",
+            "diaSemana": "Domingo",
+            "valorGarantido": 16468,
+            "data": "2025-11-24",
+            "resultados": [
+                {
+                    "jogadorId": 37,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 19,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 18,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 5,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 8,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 23,
+                    "pontos": 3
+                }
+            ]
+        },
+        {
+            "numero": 20,
+            "nomeTorneio": "Super Domingo",
+            "diaSemana": "Domingo",
+            "valorGarantido": 16309,
+            "data": "2025-02-03",
+            "resultados": [
+                {
+                    "jogadorId": 22,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 43,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 28,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 9,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 21,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 10,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 47,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 5
+                }
+            ]
+        },
+        {
+            "numero": 21,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 6851,
+            "data": "2025-12-30",
+            "resultados": [
+                {
+                    "jogadorId": 42,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 48,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 37,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 27,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 26,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 23,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 47,
+                    "pontos": 3
+                }
+            ]
+        },
+        {
+            "numero": 22,
+            "nomeTorneio": "Super Quinta-feira",
+            "diaSemana": "Quinta-feira",
+            "valorGarantido": 8538,
+            "data": "2025-07-18",
+            "resultados": [
+                {
+                    "jogadorId": 3,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 44,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 34,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 19,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 36,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 46,
+                    "pontos": 8
+                }
+            ]
+        },
+        {
+            "numero": 23,
+            "nomeTorneio": "Super Quinta-feira",
+            "diaSemana": "Quinta-feira",
+            "valorGarantido": 11949,
+            "data": "2025-11-14",
+            "resultados": [
+                {
+                    "jogadorId": 21,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 36,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 10,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 35,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 45,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 39,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 31,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 24,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 20,
+                    "pontos": 5
+                }
+            ]
+        },
+        {
+            "numero": 24,
+            "nomeTorneio": "Super Segunda-feira",
+            "diaSemana": "Segunda-feira",
+            "valorGarantido": 16462,
+            "data": "2025-05-13",
+            "resultados": [
+                {
+                    "jogadorId": 2,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 38,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 32,
+                    "pontos": 1
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 17,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 22,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 34,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 12,
+                    "pontos": 9
+                }
+            ]
+        },
+        {
+            "numero": 25,
+            "nomeTorneio": "Super Ter\u00e7a-feira",
+            "diaSemana": "Ter\u00e7a-feira",
+            "valorGarantido": 23575,
+            "data": "2025-10-29",
+            "resultados": [
+                {
+                    "jogadorId": 22,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 30,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 23,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 8,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 5,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 29,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 11,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 4,
+                    "pontos": 1
+                }
+            ]
+        }
+    ]
+}
