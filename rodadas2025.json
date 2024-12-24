@@ -89,6 +89,51 @@
                     "pontos": 1
                 }
             ]
+        },
+        {
+            "numero": 3,
+            "nomeTorneio": "super sexta",
+            "diaSemana": "sexta",
+            "valorGarantido": 35000,
+            "data": "2025-01-03",
+            "resultados": [
+                {
+                    "jogadorId": 11,
+                    "pontos": 9
+                },
+                {
+                    "jogadorId": 38,
+                    "pontos": 8
+                },
+                {
+                    "jogadorId": 27,
+                    "pontos": 7
+                },
+                {
+                    "jogadorId": 15,
+                    "pontos": 6
+                },
+                {
+                    "jogadorId": 2,
+                    "pontos": 5
+                },
+                {
+                    "jogadorId": 5,
+                    "pontos": 4
+                },
+                {
+                    "jogadorId": 7,
+                    "pontos": 3
+                },
+                {
+                    "jogadorId": 6,
+                    "pontos": 2
+                },
+                {
+                    "jogadorId": 18,
+                    "pontos": 1
+                }
+            ]
         }
     ]
 }
